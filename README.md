@@ -22,4 +22,4 @@ I'm currently focused on building a strong foundation in these domains and will 
 
 ---
 
-*This README is a work in progress as I continue to learn and grow in my field. Feel free to connect with me for collaborations or questions!
+*This README is a work in progress as I continue to learn and grow in my field. Feel free to connect with me for collaborations or questions!*
